@@ -88,12 +88,12 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>vasanth-relese</name>
-	      <url>http://13.232.175.161:8081/repository/flipkart-hostted/</url>
+	      <name>flipkart-release</name>
+	      <urlhttp://13.232.175.161:8081/repository/flipkart-release/></url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>vasanth-snapshot</name>
+	      <name>flipkart-snapshot</name>
 	      <url>http://13.232.175.161:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
